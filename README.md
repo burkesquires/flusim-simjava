@@ -16,3 +16,6 @@ Please let em know if you have any questions.
 Regards,
 
 R. Burke Squires
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/burkesquires/flusim-simjava/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
